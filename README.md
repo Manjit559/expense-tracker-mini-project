@@ -23,7 +23,6 @@ This is a beginner-friendly project to practice **DOM manipulation** and **basic
 
 
 ## 🚀 Getting Started
-
 ### Prerequisites
 Just a modern web browser (Chrome, Edge, Firefox, etc.). No server setup required.
 
