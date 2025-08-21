@@ -47,9 +47,6 @@ Just a modern web browser (Chrome, Edge, Firefox, etc.). No server setup require
 🔮 Future Improvements
 
 📊 Add categories for expenses (e.g., Food, Travel, Bills)
-
 💾 Save data in LocalStorage to persist after reload
-
 📅 Add monthly/weekly filter
-
 📈 Visualize expenses with charts
